@@ -4,10 +4,6 @@ const request = require('supertest');
 const app = require('./server');
 
 describe('API de Cálculo', () => {
-  // Teste básico para verificar se o teste está funcionando
-  test('1 + 1 é igual a 2', () => {
-    expect(1 + 1).toBe(2);
-  });
 
   test('POST /calculate deve multiplicar o número por 10 corretamente', async () => {
     const response = await request(app)

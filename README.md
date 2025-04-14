@@ -10,7 +10,6 @@ O projeto está organizado nas seguintes pastas:
     - `src/`: Arquivos fonte do React
     - `public/`: Arquivos estáticos
 - `backend/`: Contém o código do backend em Node.js
-    - `src/`: Arquivos fonte do servidor
 
 ## Como Executar
 
