@@ -57,6 +57,8 @@ Multiplica o número fornecido por 10.
   "error": "Número inválido"
 }
 
+```
+
 ## Testes
 ### Para executar os testes do backend: 
 
