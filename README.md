@@ -1,4 +1,4 @@
-# Calculadora Fullstack
+# Multiplicador de Números por 10
 
 Este projeto é uma aplicação fullstack simples onde o frontend envia um número para o backend, que multiplica por 10 e retorna o resultado.
 
