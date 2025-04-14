@@ -62,5 +62,5 @@ Multiplica o número fornecido por 10.
 ## Testes
 ### Para executar os testes do backend: 
 
-cd backend
-npm test
+- cd backend
+- npm test
